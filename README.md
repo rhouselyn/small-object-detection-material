@@ -17,6 +17,7 @@
   
 ### 开源代码
 - [DETR](https://github.com/facebookresearch/detr)
+- [hugging face 开源数据集及使用代码](https://huggingface.co/docs/transformers/tasks/object_detection)
   
 ### 参考文献
 
