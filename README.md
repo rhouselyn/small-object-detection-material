@@ -25,14 +25,17 @@
 ### 数据集
 - 超大型（10G-）
   - [AI-TOD航空图像数据集](https://www.cvmart.net/dataSets/detail?tabType=1&currentPage=7&pageSize=12&id=361&utm_campaign=zywang&utm_source=social&utm_medium=gongzhonghao)
+    
 - 大型（1-10G）
   - [TinyPerson数据集](https://www.cvmart.net/dataSets/detail?tabType=1&currentPage=7&pageSize=12&id=364&utm_campaign=zywang&utm_source=social&utm_medium=gongzhonghao)
   - [KITTI 道路数据集](https://www.cvmart.net/dataSets/detail/247)
+    
 - 小型（0-1G）
   - [密集行人检测数据集](https://www.cvmart.net/dataSets/detail?tabType=1&currentPage=7&pageSize=12&id=366&utm_campaign=zywang&utm_source=social&utm_medium=gongzhonghao)
   - [iSAID航空图像大规模数据集](https://www.cvmart.net/dataSets/detail?tabType=1&currentPage=7&pageSize=12&id=362&utm_campaign=zywang&utm_source=social&utm_medium=gongzhonghao)
   - [RSOD遥感图像数据集](https://www.cvmart.net/dataSets/detail?tabType=1&currentPage=7&pageSize=12&id=370&utm_campaign=zywang&utm_source=social&utm_medium=gongzhonghao)
   - [小目标检测数据集](https://www.cvmart.net/dataSets/detail/356)
+    
   #### 注：以上分类仅考虑压缩包大小
 
 ### 项目结构
