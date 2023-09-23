@@ -24,6 +24,8 @@
 
 
 ### 数据集
+- 经典
+  - [COCO](end-to-end detection with transformers_1) 
 - 超大型（10G-）
   - [AI-TOD航空图像数据集](https://www.cvmart.net/dataSets/detail?tabType=1&currentPage=7&pageSize=12&id=361&utm_campaign=zywang&utm_source=social&utm_medium=gongzhonghao)
     
