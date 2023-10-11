@@ -19,6 +19,7 @@
   
 ### 开源代码
 - [DETR](https://github.com/facebookresearch/detr)
+- [mmdetection](https://github.com/open-mmlab/mmdetection)
 - [hugging face - DETR](https://huggingface.co/facebook/detr-resnet-50) (pretrain)
 - [hugging face - Swin Transformer](https://huggingface.co/docs/transformers/model_doc/swin)
 
