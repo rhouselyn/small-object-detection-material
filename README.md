@@ -25,7 +25,7 @@
 - [hugging face - Swin Transformer](https://huggingface.co/docs/transformers/model_doc/swin)
 
 ### 参考文献
-
+- [dinoV2](https://arxiv.org/abs/2304.07193)
 
 ### 数据集
 - 经典
